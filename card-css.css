@@ -47,7 +47,7 @@
   background-color: dimgrey;
 }
 
-#cardlist {
+.cardlist {
   display: flex;
   flex-wrap: wrap;
 }
